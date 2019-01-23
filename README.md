@@ -1,6 +1,7 @@
 # becode
-created by Cedric Van Hove in 2019.  
+created by Cedric Van Hove in __January__ 2019.  
 
 In Order to test **Github**
 
-  - tadaaam :
+  - team project
+  - html5 - css3 positioning grid - flex, absolute and float
